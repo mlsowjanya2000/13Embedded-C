@@ -29,3 +29,8 @@
 |![29](https://user-images.githubusercontent.com/80662569/116462509-233a3280-a887-11eb-9b8f-c925bc36cdcd.PNG)|![33](https://user-images.githubusercontent.com/80662569/116462511-233a3280-a887-11eb-91a9-a11098dc7529.PNG)|
 
 ### CI and Code Quality
+<a href="https://frontend.code-inspector.com/public/user/github/mlsowjanya2000">
+   <img src="https://code-inspector.com/public/badge/user/github/mlsowjanya2000?style=light" alt="code inspector badge" />
+  <img src="https://www.code-inspector.com/project/28697/score/svg"/>
+  <img src="https://www.code-inspector.com/project/28697/status/svg"/>
+</a>
