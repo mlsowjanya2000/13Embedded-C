@@ -33,4 +33,5 @@
  
   <img src="https://www.code-inspector.com/project/28697/score/svg"/>
   <img src="https://www.code-inspector.com/project/28697/status/svg"/>
-</a>
+ 
+</a>[![Codacy Badge](https://app.codacy.com/project/badge/Grade/238abad755e74b1980f879d623096e95)](https://www.codacy.com/gh/mlsowjanya2000/13Embedded-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mlsowjanya2000/13Embedded-C&amp;utm_campaign=Badge_Grade)
