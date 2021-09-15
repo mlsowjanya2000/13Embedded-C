@@ -30,7 +30,7 @@
 
 ### CI and Code Quality
 <a href="https://frontend.code-inspector.com/public/user/github/mlsowjanya2000">
-   <img src="https://code-inspector.com/public/badge/user/github/mlsowjanya2000?style=light" alt="code inspector badge" />
+ 
   <img src="https://www.code-inspector.com/project/28697/score/svg"/>
   <img src="https://www.code-inspector.com/project/28697/status/svg"/>
 </a>
